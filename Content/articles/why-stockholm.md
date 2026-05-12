@@ -1,0 +1,57 @@
+---
+title: Why I like Stockholm?
+description: "Musing over all thoughts on why I like Stockholm"
+layout: article
+publishedAt: 2024-08-24
+---
+
+Moving to a new country in your late twenties is akin to attending high school as an adult.
+The teenagers around you are perplexed by your presence, while you are simultaneously trying to convince yourself
+that this decision is indeed the right one.
+
+<img src="/images/20240824/adult-high-school.jpg" alt="Happy cycling soul" width="400" height="500" />
+
+Whenever I hang out with people, the ice-breaker would invariably be along the lines of,
+"When did you move to [Stockholm](https://www.visitstockholm.com/)? How long have you been living here? Do you like it?"
+The typical response would be that it is a beautiful city, but the weather and the perceived coldness of the people are often criticized.
+Since I never took the time to explore why I personally like Stockholm, I would simply nod in agreement. It never felt right to me.
+It was as if I was adopting someone else's opinions, which I neither believed in nor agreed with.
+
+I moved to Stockholm without conducting much research on aspects like weather or culture.
+Having moved around frequently since childhood, adapting to a new place had never been a challenge for me.
+However, isn't it true that our confidence can be shattered quite quickly? My only requirement
+before moving was that I should be a complete stranger in a new city to experience the process of rebuilding my life anew.
+
+Why did I want to do that? Honestly, I don't have a clear recollection of why I made that decision.
+I was trying to recover from a seven-year-old relationship breakup and felt this was the right path. Did it help?
+In short, yes, but not without significant challenges. Moving to a new place can initially distract you from your troubles,
+but it can also create a false perception of resolution, while the inner struggle persists with no real escape.
+In essence, I tend to defer my emotional challenges as much as possible until they spiral out of control, leaving me with no way out.
+
+To rewind a bit, I was living in [Singapore](https://www.visitsingapore.com/) before moving to Stockholm in August 2020. If I had to describe Singapore
+in one word, it would be **Convenient**.
+
+I have never been to a city that comes close to Singapore.
+
+- Easy to get around with public transport
+- 24/7 food availability
+- Almost no crime
+- Squeaky clean everywhere
+- Highly cosmopolitan
+- Decent weather (I appreciate the 🌞)
+
+The initial two years in Stockholm were a struggle for me. It challenged me in every possible way,
+from basic life skills to the values I live by. The basic skills included learning how to layer for winter
+and how to cook most of my meals etc. On the values side, I learned how to be happy being alone,
+how to be content with what I have, and how to appreciate a slower pace of life.
+
+One of the most beautiful experiences during those years was meeting some of the most wonderful people and
+having the good fortune to become friends with them. Additionally,
+Stockholm provided me with the opportunity to fully immerse myself in my hobbies, offering ample time to focus on them.
+It is also one of the reasons I was able to start this blog.
+
+I can't sum up Stockholm in one word, but I will attempt to do so in a sentence.
+
+> ☃️ A city to experience; to experience yourself.
+
+If you would like to meet and have a fika to discuss this topic, feel free to reach out to me [here](mailto:hi@rrahul.cc).

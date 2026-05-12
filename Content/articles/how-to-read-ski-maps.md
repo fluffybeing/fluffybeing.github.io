@@ -1,0 +1,79 @@
+---
+title: A short story on how I learnt to read the Ski Maps?
+description: "Understanding ski maps and how to read them"
+layout: article
+publishedAt: 2025-03-25
+---
+
+I started skiing in 2020 and have visited several ski resorts in Sweden and Norway. Most of my trips have been with friends, and I've been fortunate to have experienced ski buddies who are great at navigating the slopes. However, this year when I decided to ski alone in [Trysil](https://www.trysil.com/en/), Norway, I realized how little I knew about reading ski maps. While I was a bit nervous about skiing in Trysil due to its size, I also enjoy the thrill of exploring new places and finding my way around.
+
+Let me share my story before diving into how to read ski maps.
+
+## Being Lost in the Slopes
+<img src="/images/20250325/trysil.png" alt="Ski map of Trysil" width="800" height="600" />
+
+I picked up my equipment from the ski rental shop around 8:00 AM. I was quite pleased to find the perfect fitting boots on my first try. After a warm coffee, I headed out for my first run, planning to stick to green and blue slopes to warm up and refresh my skiing skills.
+
+I took the `T2` chair lift, which was the closest one, and reached the middle of the mountain. The temperature was freezing at `-15°C` with strong winds. After getting off the lift, I was completely disoriented. Looking at the map, I could see that the only green slope from that point was `14`.
+
+> Isn't it true that adventure finds us when we least expect it?
+
+Without much thought, I took the green slope (`14`) and started skiing. If you look closely at the map, you'll see that it eventually merges with green slope (`67`) and takes a cross-country-like route through some cabins, leading to the button lift (`S7`) on the far left side of the mountain.
+
+<img src="/images/20250325/trysil-1.png" alt="Ski map of Trysil" width="800" height="600" />
+
+Frustrated with the cross-country style path, I made a spur-of-the-moment decision to cut through the cabins and join whatever adjacent slope I could find. Not the smartest move, as it turned out.
+
+<img src="/images/20250325/trysil-2.png" alt="Ski map of Trysil" width="700" height="500" />
+
+Following that pink line on the map took me over three hours. I became completely exhausted and disoriented, lost in the woods with no idea where I was going. I was just following the sounds and lights I could see in the distance.
+
+## Lesson Learned the Hard Way
+
+That evening back at the cabin, I realized how foolish I had been for not properly understanding the map. Can you guess what would have been the optimal route (following only green slopes) for me?
+
+Now I can easily answer that question. Unfortunately, there isn't a continuous green slope path from where I started unless I went to the other side of the mountain. I would have needed to mix blue and green slopes. Here are the routes I could have taken:
+
+1. Right side: Blue(`64`) → Blue(`26`) → Green(`19`)
+2. Left side: Blue(`61`) → Green(`65`) → Green(`19`)
+3. Left side: Blue(`13`) → Green(`19`)
+
+If you're wondering how I figured out these routes, keep reading to learn how to read ski maps properly.
+
+## How to Read Ski Maps
+Understanding a ski map comes down to three key elements:
+
+1. **Lifts**: There are generally three types of lifts ([How to use ski lifts?](https://newtoski.com/how-to-use-ski-lifts/)): Gondolas, Chairlifts, and Button/T-bar lifts.  
+
+<img src="/images/20250325/ski-lifts.png" alt="Types of ski lifts" width="800" height="600" />
+
+The key to navigation is understanding where lifts start and end. Study the Trysil map above and notice how all the lifts connect. Try to visualize paths between different lifts. Once you master this skill, you'll be able to navigate any ski resort.
+
+> ⁉️ Can you identify the different ski lift icons on the map? Does Trysil have a Gondola lift? Can you determine what type of lift `T2` is?
+
+<img src="/images/20250325/fjellekspressen.png" alt="Fjellekspressen lift start point" width="800" height="600" />
+
+2. **Slopes**: Slopes are color-coded by difficulty:
+   - Green: Easiest (beginner)
+   - Blue: Intermediate
+   - Red: Advanced
+   - Black: Expert (most difficult)
+
+<img src="/images/20250325/slopes.png" alt="Types of ski slopes" width="800" height="600" />
+
+Learn more about slope signs [here](https://outdoormaster.com/blogs/om-blog/ski-trail-signs).
+
+Choose your routes based on your experience level. Proper route planning will make your skiing experience enjoyable rather than stressful.
+
+3. **Facilities**: Facilities are marked with square symbols on the map.
+
+It's important to know the locations of toilets, restaurants, ski schools, and other amenities. And of course, a 🍻 break with friends is essential while skiing, so coordinate meeting points with your group.
+
+Once you know the lifts and slopes then you can connect the dots. Like you say that you want to go to `T2` and then back using the available green slopes. In ski maps, for me important thing was to give time to understand all these new signs and see how they are connected with each other. 
+
+## Pro Tips for Ski Map Navigation
+1. Always carry a physical map pamphlet, available at the tourist information center or ski rental shop.
+2. Download the ski resort's app or at least the digital map before you go.
+3. Do your first few runs with someone who knows the slopes well.
+4. Study the map before heading out and plan your routes in advance.
+5. Note the locations of emergency services and ski patrol stations.

@@ -1,0 +1,72 @@
+---
+title: Reflection with Rasmalai
+description: "Jotting down all the memories while having rasmalai with my best friend"
+layout: article
+publishedAt: 2024-12-27
+---
+
+It was just an ordinary Tuesday. I went for a run, took a refreshing shower, enjoyed two protein nut bars, packed my two-year-old MacBook into my bag, and then boarded the [Roslagsbanan](https://sl.se/reseplanering/var-trafik/roslagsbanan) to the office.
+
+<img src="/images/20241227/winter.png" alt="Winter" width="640" height="200" />
+
+As I sat there, my mind fidgeted, restless and searching for something to engage with. The winter scenery outside—worn-out trees, a grayish sky, and an absence of life—did little to lift my spirits. I considered playing games, reading that network protocol article, or finally writing my long-overdue post. Suddenly, amidst this mental hopping, a memory of my childhood friend Bablu surfaced, transporting me back to the sweet shop in our hometown where we savored **Rasmalai** together.
+
+Let me describe #Rasmalai for you. In Hindi, "ras" means juice, and "malai" means cream. Essentially, rasmalai consists of soft, creamy chenna (cottage cheese) dumplings soaking in sweetened, flavored milk, enriched with nuts. As the dumplings absorb the milk, they become juicy, infused with its rich flavor.
+
+<img src="/images/20241227/rasmalai.png" alt="Rasmalai picture" width="400" height="200" />
+
+The image evokes such nostalgia within me. I find myself wishing for a teleportation device to whisk me back to that sweet shop, to indulge in its delights once more. Ah, the power of wishes!
+
+I visit my hometown only once a year, and each visit carries a different theme. Reflecting on these memories, I realize how my conversations have aligned with those themes. I would love to share specific stories from each year, but that will lead me to never finish this. For now, this is just a glimpse.
+
+### 2019: Struggling with Relationships
+I returned home during [Holi](https://en.wikipedia.org/wiki/Holi) in March. The journey was quite a struggle. I flew from Singapore to Delhi, but my hometown is a day’s travel from there. To cut a long story short, it was a grueling train ride during peak season. My friend and I stood in one spot for a continuous eight hours. This experience, along with many others, made me realize that train travel in India can be quite the ordeal. It is just a struggle.
+
+<img src="/images/20241227/train-trip.png" alt="Train journey" width="400" height="200" />
+
+Once I finally reached home, after greeting my close family members, I dashed to my friend’s house, knocking eagerly on his door. His mother answered and informed me that he was away and wouldn’t return for two days. I patiently waited those two days, and when we finally reunited, we headed to the [sweet shop](https://maps.app.goo.gl/pzN1F1tLYFZC7EJv9).
+
+As we savored the dessert, I found the courage to share the burdens that had been weighing heavily on my heart. I confessed my struggles with personal relationships, revealing how I felt increasingly detached from those I cared about. It was the first time I attempted to open up emotionally, and it felt both strange and vulnerable. Yet, in that moment, I realized that vulnerability is a powerful teacher, guiding me toward deeper connections and understanding.
+
+### 2020: Moving Away from Singapore
+That year, I felt a strong urge to leave Singapore and start anew. The three pillars of happiness: meaningful career, close relationships, and health were not in the best shape. Hopelessness had taken hold of me, and I believed that rebooting my life was the only way forward. While this might not have been the best strategy, it felt like a necessary escape from my current problems, focusing instead on new challenges (at least in theory).
+
+At that time, I was oblivious to many of my own behaviors, yet I vividly recall how I candidly shared my thoughts and feelings with him. He reassured me, reminding me that we always find a way, just as we have countless times in the past.
+
+### 2021: Excited to Be in Sweden
+This year, I returned home around [Diwali](https://en.wikipedia.org/wiki/Diwali) in November, after spending nearly a year in Sweden. Contrary to my initial feelings, I had grown fond of my new life there. I recently wrote about it [here](/articles/why-stockholm/).
+
+Even though I constantly struggled to settle amidst the challenges and prejudices faced as an immigrant, I found the time and space to reflect on my own journey.
+
+I had a long conversation about this with my friend while savoring the spongy sweetness of the dessert. He gave so weird look when I told him how dark and cold it is!
+
+### 2022: Finding Contentment (Lagom)
+At the beginning of 2022, I built a small cocoon for myself in Stockholm. While I wasn’t entirely comfortable, I found contentment in my surroundings. I had friends, activities to engage in, and, most importantly, opportunities to explore my own identity.
+
+I also delved deeply into how we both had been shaped by hustle culture and how it felt to be in a space that contradicted that. It completely transformed my values, shifting my focus from status, power, and money to prioritizing health, awareness of my surroundings, and striving a life that doesn’t harm others.
+
+### 2023: The Onset of Depression
+In 2022, the unresolved issues from my past began to haunt me. This marked one of the lowest phases of my life since childhood. I felt hopeless about everything—my finances were in shambles, I was lost at work, I hadn’t experienced a stable romantic relationship, and my connections with loved ones were deteriorating. Ultimately, I found myself devoid of motivation.
+
+<img src="/images/20241227/depression.png" alt="Depression illustration" width="400" height="200" />
+
+I began to question everything, spiraling into an endless loop of self-doubt. When I shared my feelings with my friend, he remarked that I overthink too much. I understood his perspective; he lived a simple life in the village and where his words were stemming from. At onset I was submerged in a sea of complexities and differences and on other hand I was expecting things to be simple.
+
+> 😔 Also on that day, I held on a thought, can I take a reverse gear with all these?
+
+### 2024: Confronting Childhood
+It’s hard to admit, but growing up in a military school made it difficult for me to reach out for help. I needed help but I didn't know how to ask for it even with my friends. It wasn't that I wasn't open for it, yet I keep questioning who could provide it, who could have same context as of me. This inner dialogue of self-doubt paralyzed me.
+
+I accepted this truth and began [CBT therapy](https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/cognitive-behavioural-therapy-cbt/overview/), discovering how much my childhood influenced my present. It’s fascinating how we say to forget the past, yet our lives are intricately shaped by it.
+
+I read two pivotal books:
+
+* [The Drama of the Gifted Child: The Search for the True Self](https://www.goodreads.com/book/show/4887.The_Drama_of_the_Gifted_Child)
+* [Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents](https://www.goodreads.com/book/show/23129659-adult-children-of-emotionally-immature-parents)
+
+I’m just beginning to scratch the surface, but these two books have helped reshape my understanding of childhood and made me more aware of my behaviors—why I do things the way I do.
+
+At this point, my friend was also grappling with his own struggles with his parents, and he could relate deeply to my experiences. Even though the sweet was delightful, the taste felt somewhat bland.
+
+<img src="/images/20241227/friend.jpeg" alt="Parasnath trek Nov 9, 2016" width="400" height="200" />
+Me & my friend smiling after doing 15KMs of [trekking](https://maps.app.goo.gl/2mhQcpBAHeUsiRh5A) in Nov 9, 2016. And with the same smile I hold onto hope that I will navigate through these complexities of life.

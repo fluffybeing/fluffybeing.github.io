@@ -1,0 +1,31 @@
+import Foundation
+import SwiftHtml
+
+public struct ArticleLayout: TagRepresentable {
+	var title: String
+	var description: String?
+	var canonicalHref: String
+	var publishedAt: Date?
+	var updatedAt: Date?
+
+	func build() -> Tag {
+		Html {
+			SiteHead(title: title, description: description, canonicalHref: canonicalHref, publishedAt: publishedAt, updatedAt: updatedAt)
+
+			Body {
+				VStack(alignment: .stretch, spacing: .s48) {
+					SiteHeader(title: title, backLink: .articles("Articles"), publishedAt: publishedAt, updatedAt: updatedAt)
+
+					SwiftHtml.Main {
+						VStack(alignment: .stretch, spacing: .s48) {
+							Content()
+						}
+					}
+
+					SiteFooter(commentSubject: title)
+				}
+			}
+		}
+		.lang("en")
+	}
+}

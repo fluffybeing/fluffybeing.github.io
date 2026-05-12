@@ -1,0 +1,46 @@
+---
+title: Getting Back on the Bike - Rediscovering a childhood hobby as an adult
+description: "Finding ways to have time for hobbies you used to love as a kid"
+layout: article
+publishedAt: 2024-09-20
+---
+
+Living in Stockholm has changed me in ways I never expected. Chief among them, it has reconnected me with cycling—a love I first discovered as a child. I learned to ride a bike at eight on a friend’s old, battered bike. He was eager for me to try, and our shared excitement turned every wobble into an adventure. Of course, I fell. A lot. One fall even landed me in the hospital with a badly scraped knee. But as I lay there, bandaged up, all I could think about was getting back on that bike.
+
+It wasn’t the pain or the fear of falling again that stayed with me; it was the pull—the feeling of freedom,
+the wind on my face, the thrill of motion, and the social aspect of it. The mix of everything captured me so deeply, even then.
+As I grew into adult life, the same passion withered away. I don't know why I leave things I used to enjoy.
+
+> Why am I writing about cycling today? Why would you read it?
+
+The gist I want to share is my story, and I hope you can relate to it. The purpose of this post would be fully
+accomplished if it motivates you enough to get back on the saddle again ☺️.
+
+I started my [CBT therapy](https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/cognitive-behavioural-therapy-cbt/overview/) at the start of 2024 as I was
+having problems with my focus. During the process, one of the things I stumbled upon was how I gave up my own hobbies to accommodate others. I
+am not a people pleaser, but it happened to me subtly as I moved around a lot since childhood. What my brain says to me: **Nothing is permanent;** so why stick to it?
+For example, if I am renting a place and want a sofa, literally my brain responds: you will move away from here, so there is no point in buying 😔.
+Completely disregarding the fact that I need that sofa. I want to have a better life!
+
+It translates everywhere in my life. And so instead of pursuing things for long, I get over them quite early after achieving an above-average level.
+Also, `above average` in my brain is so misguided. Anyways, I don't want to delve more into my struggling psychology, but according to science,
+which I believe in, I can overcome this fickle-mindedness by rewiring my brain to like things again that it used to like before. Now the hard
+part starts. As an adult, it is difficult to find what you like because we have so many questions but almost no answers.
+
+So even stumbling upon cycling was tough for me. In my case, I have accumulated several hobbies while being nomadic, which I can jump upon, like dancing, painting,
+badminton, hiking, cricket, trading, etc. I really got exhausted with analysis paralysis, which was running in my neurons all the time, trying
+to optimize things for me. The problem is that as a working adult, I don't have time for more than one or two activities, and so after several days of
+fleeting thoughts and fighting with them, I ended up with cycling 🚴. Several things landed in its favor.
+
+- I wanted a hobby that I could also do alone if needed.
+- I am quite outdoorsy and enjoy nature, so if I can mix it with my activity, it would be an added bonus.
+- I want to engage my brain at a level where I don't have time to think about other things. With a certain speed, I can achieve this.
+- I live in Stockholm, which has such a conducive environment for cycling.
+
+Also, the timing was so right for me. It was the month of May when my therapy was ending, and with lessons learned, I had to execute the plan. I looked
+for a cycle that I wanted when I first saw it a year ago, and it was on a discount. I bought it immediately, and my journey started with the start of summer.
+Today, look at me smiling while lifting my bike, which I love so much, after completing 2000 KMs of mileage.
+
+<img src="/images/20240920/lifting-bike.jpg" alt="Happy cycling soul" width="400" height="500" />
+
+I have written about why Stockholm is a great city for cycling and about my Specialized cycle [here](/articles/specialized-and-stockholm/).

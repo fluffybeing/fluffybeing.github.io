@@ -1,0 +1,140 @@
+---
+title: Buying a E-Bike in Stockholm
+description: "A Short review of my beloved Specialized Vado SL and Stockholm"
+layout: article
+publishedAt: 2024-07-24
+---
+
+I was recovering from depression, a common challenge you face as you transition into adulthood. The times has changed and managing life is not easy.
+As a pun I believe trauma happens because brain can't navigate complexity and it tries to do things which you don't want i.e. want to sleep, no you can't.
+You have think about what why someone said things the way they said. I have written about this reflection in detail [here](/articles/cycling-hobby/).
+So, to keep things short, I was eager to restart my 🚴 routine in Stockholm to feel good about myself.
+I was never drawn by its many [benefits](https://pubmed.ncbi.nlm.nih.gov/21496106/).
+
+## Why now?
+
+I currently live in Stockholm, which is a beautiful city. FYI, I will write good things which gives iffy vibe because at the beginning I dreadfully hated this
+place for the initial two years and then fell in love with it. It seems to me that
+Stockholm did [Stockholm Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome) to me.
+
+Anyways, moving on, If you live in Stockholm, you need to consider two factors before buying your beloved bicycle.
+
+- Storage
+- Weather
+
+### Storage
+
+Stockholm is notorious for [bicycle theft](https://bra.se/bra-in-english/home/crime-and-statistics/swedish-crime-survey.html),
+which made me hesitant to get a bike when I moved from Singapore to Sweden in August 2020. I was really really tempted to buy one,
+but my apartment building didn’t have bike storage inside, and my unit was on the sixth floor, taking bike in and out is out of question here.
+Even if I bought it, I knew that would mean I'd never use it. Fortunately, my new apartment has both a large lift and access to a bike garage room,
+which means storage issue is kind of resolved. This took away major worry of my bike getting stolen.
+
+BTW, I keep my bike inside my apartment for better sleep 😴.
+
+### Weather
+
+Ask anyone about Stockholm's weather, and you'll likely get a [less-than-enthusiastic](https://studyinsweden.se/blogs/2020/02/24/the-horrifying-the-unbearable-the-terrible-swedish-winter/) response.
+It's true—more than eight months of the year are rainy, dark, or too cold.
+I used to think I could only cycle during the three summer months, leaving my bike unused for
+the rest of the year.
+
+However, I've realized that even those three months are incredibly valuable, and with the right gear,
+I can extend my cycling season for a few more months. Now, I'm eager to make the most of every ride,
+regardless of the weather!
+
+## Cycling in Stockholm
+
+Cycling in Stockholm is a delight (particularly gravel paths for me), though the city's traffic can sometimes feel overwhelming.
+Fortunately, the meticulously designed bike paths offer serene alternatives to main roads,
+guiding you through scenic routes along waterfronts and parks. The city boasts extensive bike lanes and
+a strong commitment to sustainability, enhancing your ride. You can explore a variety of routes,
+including gravel paths, trails, and roads, using [Komoot](https://www.komoot.com/guide/61830/cycling-in-stockholm)
+or [Bikemap](https://www.bikemap.net/en/l/2673730/).
+
+<img src="/images/20240724/stockholm-bike-path.jpg" alt="Cycling in Stockholm is one of the most enjoyable ways to explore more of this part of Sweden." width="833" height="623" />
+
+Stockholm also offers the convenience of taking your bike on ferries and trains. For more details,
+check [here](https://sl.se/en/in-english/getting-around/bikes-on-board/).
+Just remember that bikes are permitted on commuter trains(pendaltåg) but not on the Tunnelbana.
+
+## Choosing the cycle
+
+I can't say enough about Specialized Vado SL, I just love this bike. To give you the background, the Vado SL has been on my mind since last
+year when I accompanied a friend on his search for a new bike. During our visits to various bike shops,
+I discovered the Vado SL and was immediately impressed. However, at that time, it was priced at 40,000 SEK,
+which was a bit out of my budget. This year, I was thrilled to see it on sale, and I finally seized the opportunity to make it mine.
+
+### Vado SL 4.0 EQ
+
+Given Stockholm’s hilly terrain, I knew that a regular bike would leave me feeling exhausted constantly, so I decided to look into e-bikes.
+To be honest, I went with the e-bike because my friend had one and so that I can go on ride with him.
+But I also wanted one of the lightest e-bike, just in case the battery runs out and I need to ride it like a regular bike then I should be able
+to do that. The Vado SL 4.0 turned out to be a perfect fit, weighing just over 15 kg, which makes it easy to carry and handle without assist.
+
+You can read about the detailed specification [here](https://www.specialized.com/se/sv/shop/cyklar/stadscyklar/e-turbo-vado).
+
+Below is the pic of the bike just after picking it from the [Specialized concept store](https://www.scsgbg.se/).
+
+<img src="/images/20240724/first-day.jpg" alt="Just after picking the bike from the store" width="833" height="623" />
+
+Also I would recommend to have a bike fit done for you if you want to ride for long distances. To give you an estimate about the sizing.
+
+> 📐 I am 183CM tall and my bike size is `L` which fit well to me.
+
+## Why Specialized?
+
+I am not here to give the detailed review of the cycle as I don't considered myself as an expert. This is just my own thoughts and views
+about it after riding it for 500 KMs. When you purchase your Specialized bicycle, you can register
+it in the [app](https://www.specialized.com/us/en/app) to ensure your lifetime warranty.
+
+Also, I found the app quite user-friendly and appreciate its ability to connect with various services.
+I've linked mine with [Garmin](https://connect.garmin.com/modern/profile/0c0e9682-cd03-443c-b376-27cfc6ba3fd9)
+and [Strava](https://www.strava.com/athletes/12576125).
+
+<img src="/images/20240724/bike-app.jpg" alt="First page of the app" width="300" height="43" />
+
+The home dashboard of the App is elegant and covers the functionality quite well. It
+offers convenient access to essential information, including battery status, tuning, and ride recording.
+
+- One of the things I didn't like about the App is that sometimes the cycle gets unpaired randomly I have to go through bluetooth
+  pairing process again.
+
+> 💭 To record your ride, you must start it manually, as the bike does not initiate recording automatically,
+> though the odometer will continue to count. This likely conserves phone battery, as recording relies on the phone’s GPS.
+
+In the app's rides section, you can view all your rides and access crucial data points,
+such as distance, elevation, speed, power, and battery consumption.
+
+<img src="/images/20240724/rides.jpg" alt="All the rides are synced in the app" width="300" height="400" />
+
+## Experience after 500KM
+
+With each kilometer, my connection with the bike grew stronger. The Swedish summer has been perfect for cycling,
+as the cool temperatures make for comfortable rides all day long. In just three weeks, I covered my first 500 kilometers,
+exploring both the city and its outskirts. Every ride has been a joy, revealing new sights and making each journey even more rewarding.
+
+<img src="/images/20240724/djurgarden.jpg" alt="Djurgården is awesome place for cycling" width="400" height="500" />
+
+I love how well the bike handles both on roads and trails. I've reached speeds of 55 km/h and still felt completely balanced.
+While it doesn't have the front suspension of a mountain bike, it’s still capable on trails, even if it’s not meant for flying stunts.
+It also provides just enough power to help me climb steep hills effortlessly.
+
+## Moving forward
+
+I've rekindled my love for cycling, which has become essential for maintaining my mental health.
+Looking ahead, I'm considering the following pursuits:
+
+#### Joining group rides in Stockholm
+
+1. [Gravel Bike Sweden](https://www.strava.com/clubs/567025)
+2. [Södermalm cycling club](https://www.sodermalmafc.se/cycling-club/)
+
+#### Joining races
+
+I have already signed for [Vätternrundan](https://vatternrundan.se/vatternrundan100km/sv/) 100 km race for 2025. In the
+meantime, I am looking forward for small races around Stockholm such as [STHLMBike](https://sthlmbike.se/).
+
+#### Solo bike packing
+
+With summer drawing to a close, I will plan for the solo bike trip next year.
