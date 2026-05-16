@@ -14,13 +14,13 @@ I don't want to be rich; I want to be free. Free from arranging my days around a
 
 I've saved consistently and lived well below my means for as long as I've earned an income. That habit has bought me a buffer, options, and a great deal of peace but it hasn't yet bought me independence. There's still a number between where I am and a life where work is something I choose rather than something I owe.
 
-So I keep at it: investing patiently, keeping my expenses honest, and letting compounding do the unglamorous, decade-long work it does best. Independence, as I understand it, isn't a finish line so much as the moment money quietly stops being the point.
+So I keep at it: investing patiently, keeping my expenses honest, and letting compounding do the unglamorous, decade long work it does best. Independence, as I understand it, isn't a finish line so much as the moment money quietly stops being the point.
 
 ## Someday, I would like to create more than I consume
 
 It's easy, especially online, to spend a life as an audience. I'd like the ledger of my days to tilt the other way—more shipped than scrolled, more made than watched.
 
-What I really want is for the things I build—apps, writing, photographs, small tools to actually land in someone's life and leave it a little better. Something that saves an hour, replaces an anxious habit, or makes a small moment more beautiful. Reach matters less to me than usefulness; I'd take ten people who genuinely rely on something I made over ten thousand who briefly clapped for it.
+What I really want is for the things I build apps, writing, photographs, small tools to actually land in someone's life and leave it a little better. Something that saves an hour, replaces an anxious habit, or makes a small moment more beautiful. Reach matters less to me than usefulness; I'd take ten people who genuinely rely on something I made over ten thousand who briefly clapped for it.
 
 This means choosing my inputs carefully and protecting long, uninterrupted stretches for the harder, slower work of making. Consumption is comfortable. Creation, done with care, is how I'd like to spend my best hours.
 
@@ -28,9 +28,9 @@ This means choosing my inputs carefully and protecting long, uninterrupted stret
 
 The older I get, the more I notice that careers aren't really built out of titles or companies they're built out of the people you keep ending up in rooms with. The work I remember most fondly is always tied to someone I was lucky to do it alongside.
 
-So I'd like to deliberately design a working life around that: collaborators I respect, mentors who challenge me, friends who happen to also be brilliant at what they do. People I'd cheerfully follow into a hard problem, a long ride, a new country, a half-baked idea on a Saturday.
+So I'd like to deliberately design a working life around that: collaborators I respect, mentors who challenge me, friends who happen to also be brilliant at what they do. People I'd cheerfully follow into a hard problem, a long ride, a new country, a half baked idea on a Saturday.
 
-Less networking, more genuine company. Fewer transactions, more adventures—on motorcycles, on trails, in new cities, in projects that don't quite fit on a CV. A career, in other words, that doubles as a life.
+Less networking, more genuine company. Fewer transactions, more adventures on motorcycles, on trails, in new cities, in projects that don't quite fit on a CV. A career, in other words, that doubles as a life.
 
 ## Someday, I would like to build a family
 

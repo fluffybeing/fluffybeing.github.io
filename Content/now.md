@@ -10,7 +10,7 @@ This year I'm holding myself to four quiet ambitions. Each is a little inconveni
 
 ## Earning the A motorcycle licence
 
-Working through Sweden's full A licence. It's a deliberately demanding process—theory, risk training on a closed course, risk training on the road, and the final practical exam spread across months and weather windows. I'm taking it one stage at a time and trying to enjoy the parts where I'm clearly a beginner.
+Working through Sweden's full A licence. It's a deliberately demanding process theory, risk training on a closed course, risk training on the road, and the final practical exam spread across months and weather windows. I'm taking it one stage at a time and trying to enjoy the parts where I'm clearly a beginner.
 
 ## Launching apps through my own company
 
@@ -18,7 +18,7 @@ I've registered a company in Sweden and am using it as the vehicle for shipping 
 
 ## Building real focus
 
-I read a lot about focus and attention, but reading isn't the same as practising. I'm experimenting with a daily routine—fewer inputs, longer blocks of single-tasking, a clearer line between work and rest—until something sticks rather than just sounds good on paper.
+I read a lot about focus and attention, but reading isn't the same as practising. I'm experimenting with a daily routine fewer inputs, longer blocks of single tasking, a clearer line between work and rest until something sticks rather than just sounds good on paper.
 
 ## Feeling at home in myself
 
