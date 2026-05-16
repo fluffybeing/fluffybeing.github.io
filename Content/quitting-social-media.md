@@ -14,4 +14,4 @@ It's designed to keep you scrolling, not thinking. To make you react, not reflec
 
 I'm not there yet. I still use it to stay connected with friends across the world. But someday, I'd like my connections to be more intentional — through email, through this site, through real conversations.
 
-Until then, the best way to follow along is through my [email newsletter](/) or [RSS feed](/feed.rss).
+Until then, the best way to follow along is through my [email newsletter](#subscribe) or [RSS feed](/feed.rss).
