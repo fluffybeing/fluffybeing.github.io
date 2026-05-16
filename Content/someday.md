@@ -3,46 +3,42 @@ title: Someday
 layout: page
 description: Things I would like to do someday.
 publishedAt: 2026-05-04
-updatedAt: 2026-05-04
+updatedAt: 2026-05-16
 ---
 
-## Someday, I would like to work for the sake of the craft, not to make money
-
-I love tinkering with small indie apps, websites, and other projects without thinking about how to monetize and grow them.
-
-Don't get me wrong, I love working together with other people on interesting projects too, but I would like to reduce the hours, or maybe do it seasonally, if possible.
-
-I also feel extremely grateful for being able to work on what I love at my full-time job—something some people can only dream of.
-
-But there's just something about waking up and working—or _not_ working—on whatever inspires you that day. That's freedom to me.
-
-Usually, people only achieve this kind of freedom when they retire, which is at age 65 or later. I want to "retire" earlier than that, which brings me to my next point…
+A short list of the lives I'd quietly like to grow into. None of these are deadlines—just directions I keep walking in.
 
 ## Someday, I would like to be financially independent
 
-I don't want to be rich, I want to be wealthy. I don't want to be able to afford luxurious items and expensive vacations, I want to be able to only spend time on things that matter the most to me in life: family and friends, rich experiences, and meaningful work.
+I don't want to be rich; I want to be free. Free from arranging my days around a paycheck, free from making decisions where money is the loudest voice in the room.
 
-I believe this is only possible once I no longer have to "care" about money. When income and cost no longer have to be factors in my decisions. This means having a passive income that covers my expenses.
+I've saved consistently and lived well below my means for as long as I've earned an income. That habit has bought me a buffer, options, and a great deal of peace but it hasn't yet bought me independence. There's still a number between where I am and a life where work is something I choose rather than something I owe.
 
-I realized this in 2016 in my early twenties and have been working towards it ever since. I still have a long way to go, but I'm very excited about it. I might write more about that at some point.
+So I keep at it: investing patiently, keeping my expenses honest, and letting compounding do the unglamorous, decade-long work it does best. Independence, as I understand it, isn't a finish line so much as the moment money quietly stops being the point.
 
-## Someday, I no longer want to care about "making it"
+## Someday, I would like to create more than I consume
 
-The main reason why I still have a LinkedIn account is because of my fear of missing out on new job opportunities. Although I'm currently not looking for anything new, I might have to someday in the future.
+It's easy, especially online, to spend a life as an audience. I'd like the ledger of my days to tilt the other way—more shipped than scrolled, more made than watched.
 
-As long as I have to work for money, I probably won't be ready to burn that bridge and delete my LinkedIn account.
+What I really want is for the things I build—apps, writing, photographs, small tools to actually land in someone's life and leave it a little better. Something that saves an hour, replaces an anxious habit, or makes a small moment more beautiful. Reach matters less to me than usefulness; I'd take ten people who genuinely rely on something I made over ten thousand who briefly clapped for it.
 
-The same goes for my social media accounts. I love connecting with and meeting new people on there, but the main reason I haven't deleted them yet is because it significantly helps the success of my indie apps, which in turn brings me more income.
+This means choosing my inputs carefully and protecting long, uninterrupted stretches for the harder, slower work of making. Consumption is comfortable. Creation, done with care, is how I'd like to spend my best hours.
 
-Even though I don't spend that much time on these social media services anymore, I still feel like a slave to them. And I hate that.
+## Someday, I would like to build a career around meaningful people and shared adventures
 
-Once I'm financially independent, I hope that this need for career/work growth will go away, and I can let go of my FOMO—or maybe FONMI (Fear of Not Making It)—and just build cool stuff for the sake of building cool stuff.
+The older I get, the more I notice that careers aren't really built out of titles or companies they're built out of the people you keep ending up in rooms with. The work I remember most fondly is always tied to someone I was lucky to do it alongside.
 
-Then I just need to figure out a way to keep the social aspects of social media, and I can reduce my online presence to just my personal website and my email address. _This is the dream._
+So I'd like to deliberately design a working life around that: collaborators I respect, mentors who challenge me, friends who happen to also be brilliant at what they do. People I'd cheerfully follow into a hard problem, a long ride, a new country, a half-baked idea on a Saturday.
 
-## Someday, I would like to build a home for my family
+Less networking, more genuine company. Fewer transactions, more adventures—on motorcycles, on trails, in new cities, in projects that don't quite fit on a CV. A career, in other words, that doubles as a life.
 
-I have always loved interior design and architecture, and frequently dream about building my own house someday. We're still not sure about where to put this house—where we want to settle down someday—so figuring this out will probably be the next step.
+## Someday, I would like to build a family
+
+Underneath all of this is something simpler and far more important: I want to share a life with someone, and eventually build a family with her.
+
+I'd like to meet a partner I can grow alongside: someone whose company makes ordinary days feel like enough, who's honest with me when I need it and patient when I don't deserve it, and who's up for the long, unglamorous project of building a home together. Children, in time. Roots, in time. The kind of quiet, daily love that doesn't make for good stories but makes for a good life.
+
+Everything else on this page is, in some way, in service of this one.
 
 <br/>
 <p class="callout">This page is part of the <a href="https://someday.page">someday page</a> movement. You should make one too!</p>

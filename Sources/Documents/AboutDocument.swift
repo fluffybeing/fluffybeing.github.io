@@ -3,10 +3,18 @@ import SwiftHtml
 let aboutDocument = Document(.html) {
 	Section(title: "Who") {
 		Div {
-			P("I'm Rahul, a curious guy who loves to challenge himself in every possible way. I'm driven by honesty, good energy, and being someone people feel safe around.")
-			P("I have a diverse range of interests that keep me busy—running, cycling, skiing, motorcycling, writing, reading, photography, and badminton.")
-			P("I'm an extroverted introvert; I love meeting new people and exploring new places, but I recharge my energy at home.")
-			P("I like sharing ideas, opinions, and learnings, continuously refining them along the way.")
+			P(
+				"👋 I'm Rahul: a curious guy, happiest when I'm learning something that's a little beyond me. What I care about most is being honest, bringing good energy into a room, and being someone people feel safe around."
+			)
+			P(
+				"My interests pull in many directions: running, cycling, skiing, motorcycling, badminton, writing, reading, and photography. Most of them are slow crafts that reward showing up more than showing off."
+			)
+			P(
+				"I'm an extroverted introvert. I light up around interesting people and new places, then quietly refill my battery at home with a book, a long walk, or an unhurried evening."
+			)
+			P(
+				"I enjoy thinking in public—sharing ideas, opinions, and half-formed lessons, and refining them as I go. This site is where most of that happens."
+			)
 		}
 		.class("prose")
 	}
@@ -15,18 +23,22 @@ let aboutDocument = Document(.html) {
 
 	Section(title: "What") {
 		Div {
-			P("I spend most of my time building mobile apps—crafting polished, well-architected iOS experiences with Swift and UIKit/SwiftUI.")
+			P(
+				"I spend most of my days building software mainly iOS apps, written in Swift with SwiftUI and UIKit. I care about the small things: a clean architecture, a considered interaction, a screen that feels calm to use."
+			)
 			P {
-				Text("I work as a Senior Software Engineer at ")
+				Text("Currenlty I work as Team lead at ")
 				A("Teledyne FLIR")
-					.href("https://www.teledyneinstruments.com")
-				Text(" in Stockholm, where I build camera and imaging software for iOS.")
+					.href("https://www.flir.com/en-eu/")
+				Text(" in Stockholm, building camera and imaging software for iOS.")
 			}
+			P(
+				"Outside of that, I'm slowly building a small portfolio of indie apps through my own company, writing here, and taking pictures when the light is good."
+			)
 			P {
 				Text("You can read more about what I'm up to right now on ")
 				A("my now page")
 					.href("/now/")
-					.class("plain")
 				Text(".")
 			}
 			.class("callout")
@@ -38,18 +50,21 @@ let aboutDocument = Document(.html) {
 
 	Section(title: "Why") {
 		Div {
-			P("I've always had a deep curiosity for learning and creating. As long as I can remember, I've found joy in building things—whether it was sketching, tinkering with electronics, or writing code.")
-			P("Ever since I wrote my first lines of code, most of my creative output has been in the form of software—apps, tools, and experiments that solve real problems.")
-			P("I've lived and worked across India, Singapore, California, and now Sweden. Each place has shaped how I think about craft, culture, and collaboration.")
+			P(
+				"For as long as I can remember, I've found a particular kind of joy in making things sketching, taking gadgets apart, writing little programs to see what they'd do. The medium kept changing; the impulse never did."
+			)
+			P(
+				"Software stuck because it sits at the intersection of everything I love: design, logic, language, and the quiet satisfaction of watching an idea become something other people can actually use."
+			)
+			P(
+				"I've lived and worked across India, Singapore, California, and now Sweden. Each place has nudged how I think about craft, culture, and the kind of life worth building and made me a little less attached to any single way of doing things."
+			)
 			P {
 				Text("On ")
 				A("my someday page")
+				Text(", you can read more about the ")
+				A("long-term life I'm hoping to grow into")
 					.href("/someday/")
-					.class("plain")
-				Text(", you can learn more about my ")
-				A("long-term life goals")
-					.href("/someday/")
-					.class("plain")
 				Text(".")
 			}
 			.class("callout")
@@ -76,14 +91,16 @@ let aboutDocument = Document(.html) {
 			}
 		}
 
-		P {
-			Text("I plan to one day ")
-			A("quit social media")
-				.href("/quitting-social-media/")
-				.class("plain")
-			Text(", but until then you can find me there.")
+		Div {
+			P {
+				Text("I plan to one day ")
+				A("quit social media")
+					.href("/quitting-social-media/")
+				Text(", but until then you can find me there.")
+			}
+			.class("callout")
 		}
-		.class("callout")
+		.class("prose")
 	}
 }
 
